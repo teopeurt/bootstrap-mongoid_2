@@ -44,3 +44,4 @@ gem "mongoid-rspec", ">= 1.4.6", :group => :test
 gem "email_spec", ">= 1.2.1", :group => :test
 gem "bootstrap-sass", ">= 2.0.4.0"
 gem "devise", ">= 2.1.2"
+gem "hub", ">= 1.10.2", :require => nil, :group => [:development]
